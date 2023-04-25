@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "725595201524",
+    "project_id": "pitchly-3c960",
+    "storage_bucket": "pitchly-3c960.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725595201524:android:00830cace00dfc6776e3a1",
+        "android_client_info": {
+          "package_name": "com.pitchly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725595201524-o2rv8414u39pfcm4qhe9f11hirg8go13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRQy0USbS9qEMCN5QDQOjKW5eSHQT1Omk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725595201524-o2rv8414u39pfcm4qhe9f11hirg8go13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
